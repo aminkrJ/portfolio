@@ -11,4 +11,5 @@
 /log/*
 !/log/.keep
 /tmp
-/vendor/assets
+template1/vendor/assets/bower_components
+template1/tmp
