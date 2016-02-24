@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "homepage": "https://github.com/aminkrJ/portfolio",
+  "authors": [
+    "Amin Karaji <amin.karaji@siteminder.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.9.1 - 2",
+    "underscore": "*",
+    "bootstrap": "*"
+  }
+}
