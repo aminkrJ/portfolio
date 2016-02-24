@@ -11,5 +11,3 @@
 /log/*
 !/log/.keep
 /tmp
-template1/vendor/assets/bower_components
-template1/tmp
